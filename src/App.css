@@ -1,0 +1,100 @@
+* {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.navbarColor {
+  background-color: #ffffff;
+}
+
+.iconColor {
+  color: rgb(0, 68, 254);
+}
+
+.mainHeading {
+  color: rgb(44, 44, 47);
+}
+
+/* button {
+  margin: 2px;
+  border: 1px solid black;
+  border-radius: 3px;
+} */
+
+.buttonOne{
+  color : rgb(0, 68, 254) ;
+  border : 1px solid rgb(0, 68, 254);
+  border-radius: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonTwo{
+  color : rgb(232, 238, 255) ;
+  border : 1px solid rgb(5, 5, 5);
+  background-color: rgb(0, 68, 254);
+  border-radius: 6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonThree{
+  
+  color : rgb(181, 223, 255) ;
+  border : 1px solid rgb(5, 5, 5);
+  background-color: rgb(14, 46, 126);
+  border-radius: 6px;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonFour{
+  color : rgb(1, 7, 24) ;
+  border : 1px solid rgb(0, 6, 22);
+  border-radius: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.buttonFive{
+  color : rgb(243, 187, 187) ;
+  background-color: rgb(44, 1, 1);
+  border : 1px solid rgb(0, 68, 254);
+  border-radius: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cardOne {
+  background-color: #dae9ff;
+}
+
+.cardTwo{
+  background-color: #d0d0d2;
+  color:rgb(80, 46, 1);
+}
+
+.bgcOne{
+  background-color: #0b154e;
+  color :rgb(179, 236, 236) ;
+}
+
+.brd {
+  border: 1px solid black;
+}
+
+.bdr{
+  border: 1px solid black;
+}
+
+.fc{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
