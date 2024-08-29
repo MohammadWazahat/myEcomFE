@@ -40,7 +40,7 @@ const LogIn = () => {
   return (
     <div>
       <div className="">
-        <div className="flex justify-end m-8 gap-4 ">
+        <div className="flex justify-between m-8 gap-4 ">
           <div className="border border-gray-700 rounded flex p-2 mt-8">
             <Link to="/">Go To Dashboard</Link>
           </div>

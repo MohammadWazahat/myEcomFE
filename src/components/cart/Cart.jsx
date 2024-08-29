@@ -87,7 +87,7 @@ const Cart = () => {
             </div>
             <div className="flex  m-2 mt-16  ">
               <button
-                className="border border-slate-700 rounded-full p-3 bg-red-400 w-full "
+                className="text-amber-100 border border-slate-700 rounded-full p-3 bg-red-900 w-full "
                 onClick={() => deleteAllCartItems()}
               >
                 Delete All Cart Items

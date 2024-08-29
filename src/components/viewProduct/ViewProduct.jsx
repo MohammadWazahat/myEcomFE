@@ -61,7 +61,7 @@ const ViewProduct = () => {
               <QuantityAdder />
             </div>
             <button
-              className="brd buttonTwo flex justify-center items-center sm:justify-start py-2 "
+              className="brd buttonTwo flex justify-center items-center py-2"
               onClick={() => AddMoreToMyCart({ ...viewData, amount: amount })}
             >
               Add to cart

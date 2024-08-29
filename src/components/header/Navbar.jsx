@@ -16,8 +16,8 @@ const Navbar = () => {
         <header className="">
           <div className=" navbarColor flex  justify-around items-center p-2">
             <div className=" text-2xl font-bold">
-              <span className="text-green-700 text-3xl">M</span>OBILE
-              <span className="text-green-700 text-3xl"> W</span>ORLD
+              <span className="text-green-700 text-3xl">P</span>ASSION
+              <span className="text-green-700 text-3xl ml-2">A</span>LLY
             </div>
             <div className="flex item-center justify-center ">
               <ul className="flex gap-6 ">
