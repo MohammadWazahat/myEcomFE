@@ -1,14 +1,11 @@
 import React, { useContext } from "react";
 import { CartContext } from "../../contexts/CartContext";
-import Data from "../../dataFiles/testImages.json";
 import StarRating from "../viewProduct/StarRating";
 import { FaPlus } from "react-icons/fa6";
 import { FaMinus } from "react-icons/fa6";
 
 const SingleCartItem = (item) => {
   console.log(item);
-  const myTestImage = Data[0].image1;
-  //   console.log(Data[0].image);
   const {
     state,
     deleteCartItem,

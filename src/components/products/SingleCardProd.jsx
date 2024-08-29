@@ -1,11 +1,9 @@
 import React from "react";
-import Data from "../../dataFiles/testImages.json"
 import StarRating from "../viewProduct/StarRating";
 
 
 const SingleCardProd = (item) => {
   // console.log(Data[1].image2)
-  const testImage = Data[1].image2;
   return (
     <div className="">
       <div className="">
